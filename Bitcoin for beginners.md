@@ -1,4 +1,4 @@
-![Fonte](https://www.youtube.com/watch?v=UlKZ83REIkA&ab_channel=aantonop)
+[Fonte](https://www.youtube.com/watch?v=UlKZ83REIkA&ab_channel=aantonop)
 
 ## O inicio
 Em 2008 Satoshi Nakamoto anunciou o projeto do Bitcoin, um projeto de moeda digital que fosse *peer-to-peer*.
